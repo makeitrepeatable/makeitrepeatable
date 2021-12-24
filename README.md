@@ -1,7 +1,7 @@
 - :computer: Current: Platform Engineer/SRE/Devops guy
 - :nerd_face: Future: Learn Go/Python/programming language, blockchain/crypto/web 3.0
 - :heavy_check_mark: Likes: Automation, patterns, immutable infra, idempotentcy
-- :x: Dislikes: Banks, basically
+- :x: Dislikes: Banks, ClickOps
 - :question: Wants to know more about: SWE
 
 
