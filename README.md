@@ -10,4 +10,3 @@ makeitrepeatable/makeitrepeatable is a ✨ special ✨ repository because its `R
 You can click the Preview link to take a look at your changes.
 --->
 
-![Alt Text](https://media.giphy.com/media/JmVcakKIdojgpBC2iw/giphy.gif)
